@@ -1,0 +1,64 @@
+{
+    "IPL 2025 Teams": [
+      {
+        "team_name": "Chennai Super Kings",
+        "team_logo": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6afPJqJJFVYx3ByI81V5qXNiMxn3OPUUggJvf9PfkJ77cbEwyAqqO9IIIg7CbP8s_MGIucL4k0cqggU4WUKSlkfu1WiMRwM4d602tTCgQjNRJeT6bLBg1zZn8YEO6rtiesI5jOg?key=r5cBZ4_4zALLyxHIPDWoQtpf",
+        "no_of_players": 25,
+        "captain": "Ruturaj Gaikwad"
+      },
+      {
+        "team_name": "Delhi Capitals",
+        "team_logo": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKlHx9aC9Kvg8Br0JUGDsnQ7i64GVQbwEKnIS-raec-sQYHztb9pK95VNgbWFRpt1_lWNibfjBa_LXkdEdZUKRZAxPidM3JuCeS-ICLFFCHMot6wpV1tKeDXU5znrIQBQ4j2UFzw?key=r5cBZ4_4zALLyxHIPDWoQtpf",
+        "no_of_players": 23,
+        "captain": "Axar Patel"
+      },
+      {
+        "team_name": "Gujarat Titans",
+        "team_logo": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeVBFri1WDBTG-nqIZHi5Xzp4Xg5DKEAD-ydbkvW05YuT8fXWpgEMnNw50obmpTc5mR428fFQIo6dxCNo5Pg_1OdYEKVTd4DLuTVQro9u3-MGmmaCumV9tfE1wC8BbpSv0LmE29mw?key=r5cBZ4_4zALLyxHIPDWoQtpf",
+        "no_of_players": 25,
+        "captain": "Shubman Gill"
+      },
+      {
+        "team_name": "Kolkata Knight Riders",
+        "team_logo": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfXHEQooZr7bkmj2Vzx38W6ROkcidZDH4_D_8JMScs934_ploYGIWfRQfSjSxw-3c-k8IYs8oRNYw0BB9_A22Cwc8zvNYdxLh9P-l5i_oTif2QAnlwUshkriTn0lYXLfTfeGDJLAg?key=r5cBZ4_4zALLyxHIPDWoQtpf",
+        "no_of_players": 21,
+        "captain": "Ajinkya Rahane"
+      },
+      {
+        "team_name": "Lucknow Super Giants",
+        "team_logo": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxLY-AwZ8JR2DQxoNTSNa8VkNX0Ui_EeZwQ6113Nj49FOKvOGhfuip5bj5mgAPPxJB5_VHJNku3jgAkyCZXAHXtAUNrIwMtp6Ev3Y2SbuEjxIWTjF5meqIVxA1Mbarkvmj0ytFbw?key=r5cBZ4_4zALLyxHIPDWoQtpf",
+        "no_of_players": 24,
+        "captain": "]Rishabh Pant"
+      },
+      {
+        "team_name": "Mumbai Indians",
+        "team_logo": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0mc8eOCe4AhnFUWcp8Ov3MA-X-dunKh3XHVT09-M35IlzECNy3vVM787_Lrvee0HRILH1vWVxD0VaTwDzZRw7VFjt0Al9XG7ahHxjv2ntb0n11EI_2vtKVHDOpnxh1LPQyF8j-g?key=r5cBZ4_4zALLyxHIPDWoQtpf",
+        "no_of_players": 23,
+        "captain": "Hardik Pandya"
+      },
+      {
+        "team_name": "Punjab Kings",
+        "team_logo": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0gV9cTJtBVM8IhPLQbFK5P-FnzBS9JUfkRQvQHrX4eDzlm5UZeTQsrkMy2Znj2jUFpxoZ4sFFOJnZL9WuZDump1ODTgquKqKCysrj6L4NJlQqoRHsacFOCFC9bbYRrN9GkKOC?key=r5cBZ4_4zALLyxHIPDWoQtpf",
+        "no_of_players": 25,
+        "captain": "Shreyas Iyer"
+      },
+      {
+        "team_name": "Rajasthan Royals",
+        "team_logo": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbumltpepPfhRcnG_R4FumEovPPc1W9TTfURBGmBTrKx6VnZZjz_fG1pB2UyuWF4uEY8mV_-cjiS4FV6ZGqCzq-xBTb-m6EBAlu5L17zVV7f6ub994Hsda8iNbhg2JuiLTHpUV?key=r5cBZ4_4zALLyxHIPDWoQtpf",
+        "no_of_players": 20,
+        "captain": "Sanju Samson"
+      },
+      {
+        "team_name": "Royal Challengers Bengaluru",
+        "team_logo": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUdtuPeLBpRK8jSsadpcT7V9rg1wN0MnX284q58hEDmSOiclyPCXqKizCfOoP7hzSKbwYzFLF0V0g42L1u5XGt2NbYpaOUNqcvz2aQ1r-HmPacdMZnqBj1VGIvB7GocLVSpzLg?key=r5cBZ4_4zALLyxHIPDWoQtpf",
+        "no_of_players": 22,
+        "captain": "Rajat Patidar"
+      },
+      {
+        "team_name": "Sunrisers Hyderabad",
+        "team_logo": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXehMXl747sMx7OzGWF5rzDTOFNYVDRr6Vz0RvYALIrKO4iF3hn953Tjg37eMfMirsdB_KdThMGsOOGw8ubuyX71FKQ0x6v90AmVPgfHRSfcrHqQ2p0UqIMto8r1lbZKOMEjXeM4TA?key=r5cBZ4_4zALLyxHIPDWoQtpf",
+        "no_of_players": 20,
+        "captain": "Pat Cummins"
+      }
+    ]
+  }
